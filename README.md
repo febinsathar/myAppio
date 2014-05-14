@@ -150,8 +150,3 @@ heroku config:add BUILDPACK_URL=https://github.com/mbuchetics/heroku-buildpack-n
 git push heroku master
 heroku config:set NODE_ENV=production
 ```
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 0e4890e5e6b91d176b4d4114d77c7921d5703483
