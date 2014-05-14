@@ -151,4 +151,15 @@ git push heroku master
 heroku config:set NODE_ENV=production
 ```
 
+## More Information
+  * Visit us at [Linnovate.net](http://www.linnovate.net/).
+  * Visit our [Ninja's Zone](http://www.meanleanstartupmachine.com/) for extended support.
 
+## License
+[The MIT License](http://opensource.org/licenses/MIT)
+=======
+myAppio
+=======
+
+sample app with mean experimental boilerplate
+>>>>>>> 3246a6f4faea9c74fec4b2150abef74dd1bde7c1

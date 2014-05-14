@@ -3,17 +3,14 @@
   "description": "MEAN.io: A fullstack javascript platformed powerd by MongoDB, ExpressJS, AngularJS, NodeJS.",
   "version": "0.3.3",
   "private": false,
-  "author": "Linnovate <mean@linnovate.net>",
+  "author": "Febin Sathar",
   "contributors": [
-    { "name": "Lior Kesos", "mail": "lior@linnovate.net" },
-    { "name": "Yonatan Ellman", "mail": "yonatan@linnovate.net" },
-    { "name": "Ehud Shahak", "mail": "ehud@linnovate.net" },
-    { "name": "Amos Haviv", "mail": "mail@amoshaviv" },
-    { "name": "Drew Fyock", "mail": "drew@steelbisondev.com" }
+    { "name": "Febin Sathar", "mail": "febinsathar@gmail.com" }
+
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": "https://github.com/febinsathar/myAppio.git"
   },
   "engines": {
     "node": "0.10.x",
